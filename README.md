@@ -1,2 +1,2 @@
-# ProbSolv
+# QGISJO
 Yeaaaah menn
